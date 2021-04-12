@@ -5,7 +5,7 @@
 using namespace std;
 
 template <typename T>
-class queue
+class Queue
 {
   private:
   // members here
@@ -13,7 +13,7 @@ class queue
     void add(T &elem);
     T remove();
 };
-
+dds
 template <typename T>
 void Stack<T>::add(T &elem)
 {
