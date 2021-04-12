@@ -15,13 +15,13 @@ class Queue
 };
 dds
 template <typename T>
-void Stack<T>::add(T &elem)
+void Queue<T>::add(T &elem)
 {
 
 }
 
 template <typename T>
-T Stack<T>::remove()
+T Queue<T>::remove()
 {
 
 }
